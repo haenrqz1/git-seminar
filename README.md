@@ -32,3 +32,4 @@ Hands on live programming activity
 * [Machine Learning git repository](https://github.com/ageron/handson-ml)
 * [GitHub standard fork and pull](https://gist.github.com/Chaser324/ce0505fbed06b947d962)
 
+* [Hello world - Github Guides] (https://guides.github.com/activities/hello-world/) from github.com.
